@@ -22,7 +22,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- My old project
+- My old projects
 - E-Commerce Website (React, MongoDB, NodeJS)
 - Improving my Portfolio Website
 - MERN stack
