@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://alihuseynzade.netlify.app/" target="_blank" rel="
 </h3>
 
 <h2 align="center">
-I'm a Front-End Web Developer 💻
+I'm a Front-End Web Developer 💻!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
