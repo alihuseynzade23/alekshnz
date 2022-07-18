@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://media-exp1.licdn.com/dms/image/C5616AQGw433M12wLCg/profile-displaybackgroundimage-shrink_350_1400/0/1644427964364?e=1650499200&v=beta&t=ILF0OUHTNDnhZZfHIHSMTQan9O8NGbyQ_9o5ZVPwwFA"></a>
-</p>
 
 <h3 align="center">
 Hi there, I'm <a href="https://alihuseynzade.netlify.app/" target="_blank" rel="noreferrer">Ali</a> 👋
