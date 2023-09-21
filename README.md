@@ -13,7 +13,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a target="_blank" href="https://www.linkedin.com/in/ali-huseynzade-2a1101213/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ali
   | LinkedIn" width="21px"/></a>
-<a target="_blank"  href="https://www.instagram.com/ali_guseynzade/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ali | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
